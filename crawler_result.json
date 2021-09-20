@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "arrival_time": 1585254979,
+      "coordinates": {
+        "latitude": 50.34 ,
+        "longitude": 234.234
+      }
+    },
+    {
+      "arrival_time": 1585254979,
+      "coordinates": {
+        "latitude": 50.34 ,
+        "longitude": 234.234
+      }
+    },
+    {
+      "arrival_time": 1585254979,
+      "coordinates": {
+        "latitude": 51.55 ,
+        "longitude": 236.755
+      }
+    },
+    {
+      "arrival_time": 1585254979,
+      "coordinates": {
+        "latitude": 51.94 ,
+        "longitude": 237.014
+      }
+    },
+    {
+      "arrival_time": 1585256400,
+      "coordinates": {
+        "latitude": 55.11 ,
+        "longitude": 242.333
+      }
+    },
+    {
+      "arrival_time": 1585256400,
+      "coordinates": {
+        "latitude": 55.12 ,
+        "longitude": 242.334
+      }
+    },
+    {
+      "arrival_time": 1585256400,
+      "coordinates": {
+        "latitude": 56.34 ,
+        "longitude": 244.234
+      }
+    },
+    {
+      "arrival_time": 1584821322,
+      "coordinates": {
+        "latitude": 59.34 ,
+        "longitude": 250.234
+      }
+    },
+    {
+      "arrival_time": 1585256400,
+      "coordinates": {
+        "latitude": 60.65 ,
+        "longitude": 254.124
+      }
+    },
+    {
+      "arrival_time": 1585256400,
+      "coordinates": {
+        "latitude": 70.34 ,
+        "longitude": 270.234
+      }
+    }
+  ]
+}
+ 
